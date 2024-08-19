@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-  fetch('https://raw.githubusercontent.com/ebb08/Libreria/main/back/books.json')
+  fetch('https://raw.githubusercontent.com/ebb08/libreria/master/back/books.json')
       .then(response => response.json())
       .then(data => {
           const booksContainer = document.getElementById('book-container');
