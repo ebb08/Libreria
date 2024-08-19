@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biblioteca de Libros</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <nav class="navbar">
+      <div class="logo">BookBlend</div>
+      <div class="menu-toggle" id="menu-toggle">
+          <span class="bar"></span>
+          <span class="bar"></span>
+          <span class="bar"></span>
+      </div>
+      <ul class="nav-links" id="nav-links">
+        <li><a href="#destacado">Destacado</a></li>
+        <li><a href="#ultimas-recomendaciones">Últimas recomendaciones</a></li>
+        <li><a href="#generos-container">Géneros</a></li>
+        <li><a href="#autoresSection">Autores</a></li>
+        <li><a href="#reseñas">Reseñas</a></li>
+        <li><a href="#best-sellers">Best Sellers</a></li>
+    </ul>
+    
+      
+  </nav>
+  </header>
+    <main>
+      <div class="banner">
+        <section id="inicio">
+            <h2>Bienvenido a BookBlend</h2>
+            <p>¡Descubre los mejores libros recomendados por nuestra comunidad!</p>
+        </section>
+    </div>
+
+    <section class="destacado" id="destacado">
+      <div class="destacado-imagen">
+          <img src="./img/destacado.jpg" alt="Imagen del Libro Destacado del Mes">
+      </div>
+      <div class="destacado-info">
+          <h1>Libro Destacado del Mes</h1>
+          <h3>La vorágine</h3>
+          <h4>José Eustasio Rivera</h4>
+          <p>es una novela que sigue la odisea de Arturo Cova en la selva amazónica, donde enfrenta la explotación y la injusticia mientras busca riqueza y lucha por mantener su humanidad.</p>
+          <a href="#" class="boton-leer-mas">Leer más</a>
+      </div>
+  </section>
+  <section id="ultimas-recomendaciones">
+    <h2>Últimas recomendaciones</h2>
+    <div id="book-container" class="grid-books">
+    </div>
+  </section>
+ <section>
+    <h2>Géneros</h2>
+    <div class="generos" id="generos-container">
+    </div>
+</section>
+
+<section id="autoresSection">
+  <h2>Autores</h2>
+  <div id="autoresContainer" class="autores">
+  </div>
+</section>
+
+<section class="cont-reseñas" id="reseñas">
+  <h2>Reseñas</h2>
+  <div class="reseñas">
+  </div>
+</section>
+
+<section>
+  <div class="best-sellers" id="best-sellers">
+    <h2>Best Sellers</h2>
+    <div class="book-grid" id="bookGrid">
+    </div>
+  </div>
+</section>
+
+<div class="form-contact">
+  <h1>Contacto</h1>
+  <p>¡Nos encantaría saber de ti! Si tienes ideas, sugerencias o simplemente quieres compartir tu opinión sobre los libros que te apasionan, no dudes en ponerte en contacto con nosotros. Tu voz es fundamental para mejorar nuestra selección y ofrecerte recomendaciones aún más ajustadas a tus gustos. ¡Estamos aquí para ayudarte a descubrir tu próxima gran lectura!</p>
+
+  <form id="contactForm">
+      <label for="name">Nombre:</label>
+      <input type="text" id="name" name="name" required>
+      
+      <label for="email">Correo Electrónico:</label>
+      <input type="email" id="email" name="email" required>
+      
+      <label for="message">Mensaje:</label>
+      <textarea id="message" name="message" rows="4" required></textarea>
+      
+      <button class="boton-enviar" type="submit">Enviar</button>
+  </form>
+  <p id="responseMessage"></p>
+</div>
+
+</main>
+
+<footer>
+<div class="footer-container">
+    <div class="footer-section">
+        <h3>Acerca de Nosotros</h3>
+        <p>Somos una plataforma dedicada a recomendar los mejores libros en diversas categorías.</p>
+    </div>
+    <div class="footer-section">
+        <h3>Contacto</h3>
+        <p>Email: info@recomiendalibros.com</p>
+        <p>Teléfono: +1234567890</p>
+    </div>
+    <div class="footer-section">
+        <h3>Síguenos</h3>
+        <ul class="social-links">
+            <li><a href="#">Facebook</a></li>
+            <li><a href="#">Twitter</a></li>
+            <li><a href="#">Instagram</a></li>
+        </ul>
+    </div>
+</div>
+<div class="copyright">
+    <p>&copy; 2024 Recomendación de Libros. Todos los derechos reservados.</p>
+</div>
+</footer>
+<script src="menu.js"></script>
+<script src="recomendaciones.js"></script>
+<script src="generos.js"></script>
+<script src="autores.js"></script>
+<script src="reseñas.js"></script>
+<script src="bestsellers.js"></script>
+<script src="formulario.js"></script>
+
+</body>
+</html>
