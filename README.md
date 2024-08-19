@@ -20,11 +20,8 @@ BookBlend no es solo un sitio web, sino una comunidad en línea para todos los e
 
 - **Contacto**: Un formulario de contacto para que puedas enviarnos tus ideas, sugerencias o simplemente compartir tu opinión sobre los libros que te apasionan. Tu feedback es esencial para nosotros.
 
-## Instrucciones de Instalación y Ejecución
+## Aqui puedes ver la página
 
-1. **Clonar el repositorio**
-
-   ```bash
-   git clone https://github.com/tu_usuario/bookblend.git
+https://ebb08.github.io/libreria/
 
 ![Vista exterior de BookBlend](./back/public/gif.gif)
