@@ -1,0 +1,74 @@
+[
+  {
+    "title": "En agosto nos vemos",
+    "author": "Gabriel García Márquez",
+    "description": "En el párrafo se describe cómo Ana Magdalena Bach, cada agosto, viaja en transbordador a la isla donde está enterrada su madre para visitarla. Estos viajes le permiten transformarse durante una noche al año, escrito en el estilo característico de García Márquez, celebra la vida, la resistencia al paso del tiempo y el deseo femenino, y se presenta como un valioso regalo literario.",
+    "imageUrl": "https://raw.githubusercontent.com/ebb08/Libreria/main/back/public/img/1.jpg"
+  },
+  {
+      "title": "Los vagabundos de Dios",
+      "author": "Mario Mendoza",
+      "description": "Adán Santana, un novelista afectado por accidentes y el confinamiento, recibe señales enigmáticas que lo llaman a regresar a una ciudad que inspiró sus obras. Con la ayuda de un amigo y una joven artista, explora un mundo surrealista lleno de militares traumatizados, fervientes creyentes, guerreros espirituales y sádicos torturadores. Enfrentando estos desafíos, descubre que el proceso de renacimiento implica aceptar la caída y disfrutar el viaje hacia lo desconocido.",
+      "imageUrl": "https://raw.githubusercontent.com/ebb08/Libreria/main/back/public/img/2.jpg"
+  },
+  {
+      "title": "Cien años de soledad",
+      "author": "Gabriel García Márquez",
+      "description": "Publicado en 1967 por Editorial Sudamericana. Es una obra maestra del realismo mágico que narra la historia de varias generaciones de la familia Buendía en el ficticio pueblo de Macondo. Es una exploración profunda de la soledad, el amor, la violencia y la identidad latinoamericana.",
+      "imageUrl": "https://raw.githubusercontent.com/ebb08/Libreria/main/back/public/img/3.jpg.jpg"
+  },
+  {
+      "title": "1984",
+      "author": "George Orwell",
+      "description": "Publicado en 1949 por Secker and Warburg. Es una novela distópica que presenta un futuro totalitario donde el gobierno controla todos los aspectos de la vida de sus ciudadanos. Orwell examina temas de manipulación, vigilancia y resistencia individual.",
+      "imageUrl": "https://raw.githubusercontent.com/ebb08/Libreria/main/back/public/img/4.jpg"
+  },
+  {
+      "title": "El nombre del viento",
+      "author": "Patrick Rothfuss",
+      "description": "Publicado en 2007 por DAW Books. Es el primero de la trilogía de Crónica del Asesino de Reyes. Rothfuss teje una historia épica sobre Kvothe, un prodigioso músico y mago en un mundo de fantasía, mientras busca desentrañar los misterios de su pasado y enfrentar su destino.",
+      "imageUrl": "https://raw.githubusercontent.com/ebb08/Libreria/main/back/public/img/5.jpg"
+  },
+  {
+      "title": "Sapiens: De animales a dioses",
+      "author": "Yuval Noah Harari",
+      "description": "Publicado en 2011 por Debate. Harari explora la historia de la humanidad desde sus orígenes hasta la actualidad, abordando cómo los seres humanos han evolucionado y han creado sociedades complejas, sistemas políticos y religiones.",
+      "imageUrl": "https://raw.githubusercontent.com/ebb08/Libreria/main/back/public/img/6.jpg"
+  },
+  {
+      "title": "Tokio Blues (Norwegian Wood)",
+      "author": "Haruki Murakami",
+      "description": "Publicado en 1987 por Kodansha. Es una novela que sigue la vida de Toru Watanabe mientras reflexiona sobre su juventud en el Japón de los años 60, marcada por la pérdida, el amor y la búsqueda de sentido en un mundo cambiante.",
+      "imageUrl": "https://raw.githubusercontent.com/ebb08/Libreria/main/back/public/img/7.jpg"
+  },
+  {
+      "title": "Breve historia del tiempo",
+      "author": "Stephen Hawking",
+      "description": "Publicado en 1988 por Bantam Books. Es un libro de divulgación científica que explora los conceptos fundamentales del universo, desde la teoría del Big Bang hasta los agujeros negros, escrito de manera accesible para el público general.",
+      "imageUrl": "https://raw.githubusercontent.com/ebb08/Libreria/main/back/public/img/8.jpg"
+  },
+  {
+      "title": "Los pilares de la tierra",
+      "author": "Ken Follett",
+      "description": "Publicado en 1989 por Macmillan. Ambientado en la Inglaterra del siglo XII, es una épica histórica que sigue la construcción de una catedral gótica en Kingsbridge, mientras los personajes luchan contra la política, la guerra y la intriga.",
+      "imageUrl": "https://raw.githubusercontent.com/ebb08/Libreria/main/back/public/img/9.jpg"
+  },
+  {
+      "title": "El amor en los tiempos del cólera",
+      "author": "Gabriel García Márquez",
+      "description": "Publicado en 1985 por Oveja Negra. Narra la historia de amor entre Florentino Ariza y Fermina Daza, que comienza en su juventud y se reaviva en su vejez. García Márquez explora temas de pasión, esperanza y la naturaleza del amor a lo largo de toda una vida.",
+      "imageUrl": "https://raw.githubusercontent.com/ebb08/Libreria/main/back/public/img/10.jpg"
+  },
+  {
+      "title": "El túnel",
+      "author": "Ernesto Sabato",
+      "description": "Publicado por primera vez en 1948 por Editorial Sur. Es una novela psicológica que explora la obsesión y la alienación a través de la historia de un pintor que se enamora obsesivamente de una mujer y comete un crimen pasional. Sabato utiliza un estilo introspectivo y oscuro para explorar las profundidades de la mente humana.",
+      "imageUrl": "https://raw.githubusercontent.com/ebb08/Libreria/main/back/public/img/11.jpg"
+  },
+  {
+      "title": "La sombra del viento",
+      "author": "Carlos Ruiz Zafón",
+      "description": "Publicado en 2001 por Editorial Planeta. Ambientada en la Barcelona de la posguerra civil española, es una novela que mezcla misterio, historia y romance. Ruiz Zafón teje una trama intrigante sobre un joven que descubre un misterioso libro que cambia su vida y lo conduce a enfrentarse a oscuras fuerzas que buscan destruirlo.",
+      "imageUrl": "https://raw.githubusercontent.com/ebb08/Libreria/main/back/public/img/12.jpg"
+  }
+]
